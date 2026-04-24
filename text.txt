@@ -1,2 +1,19 @@
 这是用Vim编辑文档的第一天，今天学会了Git
 也安装了Vim也许是小小的新开始。
+这就可以输入了
+还是康文昌讲得更好
+(base) PS D:\text> git config --global user.name "ling830"
+(base) PS D:\text> git config --global user.email ling830@me.com
+(base) PS D:\text> git init
+Initialized empty Git repository in D:/text/.git/
+(base) PS D:\text> git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+(base) PS D:\text> git add .
+(base) PS D:\text> git commit
+[master (root-commit) 73e5dc6] 这是第一次提交。
+ 1 file changed, 2 insertions(+)
+ create mode 100644 text.txt
+(base) PS D:\text> 
