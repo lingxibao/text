@@ -1,3 +1,8 @@
+git add .
+git commit -m "更新了内容"
+git push
+
+
 这是用Vim编辑文档的第一天，今天学会了Git
 也安装了Vim也许是小小的新开始。
 这就可以输入了
