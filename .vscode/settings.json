@@ -1,3 +1,5 @@
 {
-    "search-online.search-engine": "Bing"
+    "search-online.search-engine": "Bing",
+    "xlsxViewer.md.previewPosition": "left",
+    "breadcrumbs.enabled": false
 }
